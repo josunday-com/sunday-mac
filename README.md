@@ -1,4 +1,4 @@
-# sunday-macos
+# sunday-mac
 
 ## Required permissions
 
