@@ -18,6 +18,6 @@
   3. Assign the automated actions with a speech command (initiator)
   4. Summon and execute the command via speech
 
-## Tested Mac OSes
+## Tests
   
   1. MacOS Big Sur (11.2.2)
